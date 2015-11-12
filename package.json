@@ -1,7 +1,7 @@
 {
-  "name": "webgl-experiments",
+  "name": "rain-effect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rain Effects with WebGL and Canvas",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://lbebber@bitbucket.org/lbebber/webgl-experiments.git"
+    "url": "git+https://github.com/codrops/RainEffect.git"
   },
   "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/lbebber/webgl-experiments#readme",
+  "license": "SEE LICENSE IN http://tympanus.net/codrops/licensing/",
+  "homepage": "https://github.com/codrops/RainEffect",
   "devDependencies": {
     "babel": "^5.8.29",
     "babelify": "^6.4.0",
@@ -27,9 +27,6 @@
     "gulp-babel": "^5.2.1",
     "gulp-connect": "^2.2.0",
     "gulp-streamify": "^1.0.2",
-    "gulp-uglify": "^1.4.2",
-    "gyronorm": "^2.0.4",
-    "noisejs": "^2.1.0",
     "uglify-js": "^2.5.0",
     "vinyl-source-stream": "^1.1.0"
   }
