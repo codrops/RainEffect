@@ -5,7 +5,7 @@ Some experimental rain and water drop effects in different scenarios using WebGL
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25417)
 
-[Demo](http://tympanus.net/RainEffect/)
+[Demo](http://tympanus.net/Development/RainEffect/)
 
 ## License
 
