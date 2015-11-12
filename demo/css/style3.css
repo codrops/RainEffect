@@ -1,0 +1,25 @@
+.videobg {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    pointer-events: none;
+}
+
+.container {
+	height: 100vh;
+	overflow: hidden;
+	position: relative;
+	background: rgba(146, 137, 183, 0.5);
+}
+
+.logo-img {
+	position: absolute;
+	left: 50%;
+	margin: -134px 0 0 -200px;
+	width: 400px;
+	top: 50%;
+}

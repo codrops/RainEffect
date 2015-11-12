@@ -1,0 +1,36 @@
+{
+  "name": "webgl-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lbebber@bitbucket.org/lbebber/webgl-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lbebber/webgl-experiments#readme",
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "babelify": "^6.4.0",
+    "browserify": "^11.2.0",
+    "core-js": "^1.2.3",
+    "extend": "^3.0.0",
+    "fs": "0.0.2",
+    "glslify": "^2.3.1",
+    "gsap": "^1.18.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.4.2",
+    "gyronorm": "^2.0.4",
+    "noisejs": "^2.1.0",
+    "uglify-js": "^2.5.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

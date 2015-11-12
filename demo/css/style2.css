@@ -1,0 +1,70 @@
+.content {
+	width: 300px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.device {
+	width: 100%;
+	position: absolute;
+	z-index: 10;
+}
+
+.app {
+	background: #f2f2f2;
+	color: #000;
+	width: 261px;
+	height: 463px;
+	position: absolute;
+	top: 74px;
+	left: 20px;
+	padding: 1em;
+	text-align: center;
+	overflow: hidden;
+}
+.app-content{
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	padding:1em;
+}
+.app__button-menu {
+	background: none;
+	border: none;
+	padding: 0;
+	color: #333;
+	font-size: 1.15em;
+	float: left;
+}
+
+.app__title {
+	font-size: 5em;
+	letter-spacing: -5px;
+	margin: 2.35em 0 0 0;
+	line-height: 1;
+}
+
+.app__info {
+	color: #797979;
+	padding: 0 1em;
+	margin: 0;
+}
+
+.app__info--small {
+	font-size: 0.65em;
+	font-weight: bold;
+	color: #aaa;
+}
+
+.app__button {
+	border: 2px solid #333;
+	padding: 0.6em 1.75em;
+	margin: 4em 0 1em;
+	text-transform: uppercase;
+	color: #333;
+	font-size: 0.75em;
+	font-weight: bold;
+	background: none;
+}
